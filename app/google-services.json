@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "906076944277",
+    "firebase_url": "https://sparaallt-274c4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sparaallt-274c4",
+    "storage_bucket": "sparaallt-274c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906076944277:android:2bc9e486b969776c57a89c",
+        "android_client_info": {
+          "package_name": "com.example.res1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906076944277-eio22vjq6tdh1j87kek8au54pedtbp3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0pJCdCJzV-Fms0e-JdYCDlwJiPQscBP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906076944277-eio22vjq6tdh1j87kek8au54pedtbp3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906076944277-h0gpf75br9t2rtl7hl9drb3nsoov4noj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Moussa.Ellakki-hotmail.com.Choice2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906076944277:android:acee085371e4c17e57a89c",
+        "android_client_info": {
+          "package_name": "moussa.ellakki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906076944277-eio22vjq6tdh1j87kek8au54pedtbp3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0pJCdCJzV-Fms0e-JdYCDlwJiPQscBP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906076944277-eio22vjq6tdh1j87kek8au54pedtbp3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906076944277-h0gpf75br9t2rtl7hl9drb3nsoov4noj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Moussa.Ellakki-hotmail.com.Choice2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
